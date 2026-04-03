@@ -1,0 +1,6 @@
+feedparser
+beautifulsoup4
+requests
+scikit-learn
+python-telegram-bot
+supabase
